@@ -1,6 +1,6 @@
-![picture](Images/out9.png)
+![picture](img/out9.png)
 
-# mandelbrot-cpp
+# Mandelbrot C++
 A simple C++ program that produces fractal images
 
-![picture](Images/out6.png)
+![picture](img/out6.png)
